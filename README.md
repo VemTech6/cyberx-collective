@@ -6,7 +6,7 @@
   <img src="assets/banner-dark.svg" alt="CyberX Collective — Morgan State University" width="100%">
 </picture>
 
-Morgan State's student cybersecurity crew — no experience required, just curiosity.
+Morgan State's student cybersecurity organization — no experience required, just curiosity.
 
 <a href="#-who-we-are">Who We Are</a> ·
 <a href="#-what-we-do">What We Do</a> ·
