@@ -78,6 +78,9 @@ Structure every answer as **Situation, Task, Action, Result**. Cyber-flavored pr
 - **Federal résumé format:** longer than a private-sector résumé (2–4+ pages is normal), includes supervisor contact info, hours worked per week, and exact employment dates.
 - **Clearance process, high level:** background investigation → interviews with references/associates → adjudication. Some roles add a polygraph. Timeline is commonly 6–12+ months — apply early, and don't let it stop you from applying at all.
 
+> [!NOTE]
+> Found a broken link, a typo, or outdated info here? Open an issue with the Fix template. Want to add a new template or section? See [CONTRIBUTING.md](../CONTRIBUTING.md) — proposals get reviewed before any building starts.
+
 ---
 
 <div align="center">

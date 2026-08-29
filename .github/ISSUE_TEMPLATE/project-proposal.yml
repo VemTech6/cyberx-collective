@@ -1,0 +1,31 @@
+name: 🏗️ Project proposal
+description: Propose a project to build for CyberX Collective. Get it approved before you start building — proposal first, code second.
+title: "[Proposal]: "
+labels: ["proposal"]
+body:
+  - type: input
+    id: what
+    attributes:
+      label: What is it?
+      placeholder: One or two sentences.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why does this belong in the org rather than a personal repo?
+    validations:
+      required: true
+  - type: textarea
+    id: build
+    attributes:
+      label: What will you build, specifically?
+    validations:
+      required: true
+  - type: input
+    id: timeline
+    attributes:
+      label: Rough timeline
+      placeholder: e.g. 2-3 weeks, done by end of semester
+    validations:
+      required: true

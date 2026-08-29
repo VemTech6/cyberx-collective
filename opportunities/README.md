@@ -53,6 +53,8 @@ Filter the Issues tab by label to find what applies to you:
 
 Found a posting we're missing? Open an issue using the **opportunity template** (New Issue → "New opportunity posting") — it asks for role, org, location, deadline, eligibility, and a link. Double-check the link and deadline are current before you submit; a dead link here is worse than no posting at all.
 
+For anything else in this repo — broken links, outdated info, or a project you want to build — see [CONTRIBUTING.md](../CONTRIBUTING.md) instead; postings and general contributions go through different templates.
+
 ---
 
 <div align="center">
