@@ -26,7 +26,7 @@ Never opened a pull request before? This doc is for you. Everything in this repo
 - Fixes to the root README, templates, or brand assets
 
 > [!IMPORTANT]
-> Don't add real names, real résumés, or personal contact information here — this repo is private for now, but nothing in it should be written as if it's permanently safe from becoming public later.
+> Don't add real names, real résumés, or personal contact information here — this repo is public and indexed.
 
 ## 🔧 Commit and PR expectations
 
