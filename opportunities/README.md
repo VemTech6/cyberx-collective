@@ -12,10 +12,6 @@ Internships, scholarships, and federal pipelines — tracked as Issues, not a st
 <a href="#-labels">Labels</a> ·
 <a href="#-submit-one">Submit One</a>
 
-![License](https://img.shields.io/badge/license-CC--BY--4.0-2563EB)
-![Open Postings](https://img.shields.io/badge/postings-tracked_as_issues-2563EB)
-![Deadline Soon](https://img.shields.io/badge/watch_for-deadline--soon-E63946)
-
 </div>
 
 ---
@@ -31,7 +27,7 @@ Every posting is a repo **Issue**, not a line in a doc someone forgets to update
 Go to the **[Issues tab](https://github.com/VemTech6/cyberx-collective/issues)** and filter by an opportunity label (below) — every matching open issue is a live posting listing the role, org, location, deadline, eligibility, and a direct application link.
 
 > [!NOTE]
-> An issue getting closed doesn't mean the pipeline is gone for good — many of these (SFS, Stokes, SMART, CIA, DHS HS-POWER) run on annual cycles. Closed issues stay in the repo as a record of when the last cycle ran.
+> An issue getting closed doesn't mean the pipeline is gone for good — many scholarship and federal pipelines run on annual cycles. Closed issues stay in the repo as a record of when the last cycle ran.
 
 <a id="-labels"></a>
 ## 🏷️ Labels

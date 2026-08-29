@@ -13,11 +13,6 @@ Morgan State University's student-run cybersecurity organization.
 <a href="#-join-us">Join Us</a> ·
 <a href="#-start-here">Start Here</a>
 
-![License](https://img.shields.io/badge/license-CC--BY--4.0-2563EB)
-![Status](https://img.shields.io/badge/status-recruiting-2563EB)
-![Follow](https://img.shields.io/badge/instagram-%40cyberxcollective-E63946)
-![Visibility](https://img.shields.io/badge/repo-private-8B9BB0)
-
 </div>
 
 > [!NOTE]

@@ -12,10 +12,6 @@ Zero background required — this is what to install and click first.
 <a href="#-learning-tracks">Learning Tracks</a> ·
 <a href="#-next-steps">Next Steps</a>
 
-![License](https://img.shields.io/badge/license-CC--BY--4.0-2563EB)
-![Level](https://img.shields.io/badge/level-beginner_friendly-2563EB)
-![Contributions](https://img.shields.io/badge/contributions-welcome-2563EB)
-
 </div>
 
 ---

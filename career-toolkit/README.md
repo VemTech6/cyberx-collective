@@ -14,10 +14,6 @@ The folder you open the week before an application is due.
 <a href="#-interview-prep">Interview Prep</a> ·
 <a href="#-federal-hiring">Federal Hiring</a>
 
-![License](https://img.shields.io/badge/license-CC--BY--4.0-2563EB)
-![Templates](https://img.shields.io/badge/résumé_templates-3-2563EB)
-![Contributions](https://img.shields.io/badge/contributions-welcome-2563EB)
-
 </div>
 
 ---
