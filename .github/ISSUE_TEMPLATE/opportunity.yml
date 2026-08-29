@@ -1,0 +1,68 @@
+name: 💼 New opportunity posting
+description: Submit an internship, scholarship, co-op, or job posting for the tracker.
+title: "[Org] Role title"
+labels: []
+body:
+  - type: input
+    id: role
+    attributes:
+      label: Role / Program title
+      placeholder: e.g. Cybersecurity Internship — Summer 2027
+    validations:
+      required: true
+  - type: input
+    id: org
+    attributes:
+      label: Organization
+      placeholder: e.g. NSA, DHS, CIA, a company name
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      placeholder: e.g. Fort Meade, MD / Remote / Baltimore, MD
+    validations:
+      required: true
+  - type: input
+    id: deadline
+    attributes:
+      label: Application deadline
+      description: Use an exact date if one exists. If the cycle is closed, say when it's expected to reopen instead of leaving this blank.
+      placeholder: e.g. December 4, 2026, 5:00pm EST — or "Closed, reopens ~Oct 2026"
+    validations:
+      required: true
+  - type: textarea
+    id: eligibility
+    attributes:
+      label: Eligibility
+      description: Citizenship, class year, GPA, major, clearance requirements — whatever applies.
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Application link
+      description: Link directly to the official application page, not a news article about it.
+    validations:
+      required: true
+  - type: checkboxes
+    id: labels-needed
+    attributes:
+      label: Suggested labels (a maintainer will apply these)
+      options:
+        - label: internship
+        - label: full-time
+        - label: co-op
+        - label: scholarship
+        - label: deadline-soon (closes within ~30 days)
+        - label: remote
+        - label: clearance-required
+        - label: no-experience-needed
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I confirmed this link is live and the deadline is current
+          required: true

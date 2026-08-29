@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+  <defs>
+    <pattern id="sc2" width="110" height="110" patternUnits="userSpaceOnUse">
+      <path d="M0 26 H40 V78 H110" stroke="#1B4383" stroke-width="1.6" fill="none"/>
+      <path d="M68 0 V40 H110" stroke="#1B4383" stroke-width="1.6" fill="none"/>
+      <circle cx="40" cy="78" r="3.4" fill="#1B4383"/>
+      <circle cx="68" cy="40" r="3.4" fill="#1B4383"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="640" fill="#0A1628"/>
+  <rect width="1280" height="640" fill="url(#sc2)" opacity="0.16"/>
+  <text x="640" y="230" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="4" fill="#2563EB">CYBERX COLLECTIVE</text>
+  <rect x="562" y="252" width="156" height="4" fill="#E63946"/>
+  <text x="640" y="360" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="66" font-weight="700" fill="#E8EDF2">OPPORTUNITIES</text>
+  <text x="640" y="415" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="24" fill="#8B9BB0">Internships, scholarships &amp; federal pipelines — tracked as Issues</text>
+  <text x="640" y="475" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="3" fill="#F47937">MORGAN STATE UNIVERSITY</text>
+</svg>

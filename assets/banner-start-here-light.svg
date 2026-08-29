@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <defs>
+    <pattern id="c1l" width="90" height="90" patternUnits="userSpaceOnUse">
+      <path d="M0 22 H34 V64 H90" stroke="#1B4383" stroke-width="1.4" fill="none"/>
+      <path d="M56 0 V32 H90" stroke="#1B4383" stroke-width="1.4" fill="none"/>
+      <circle cx="34" cy="64" r="3" fill="#1B4383"/>
+      <circle cx="56" cy="32" r="3" fill="#1B4383"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="260" fill="#F4F6F8"/>
+  <rect width="1200" height="260" fill="url(#c1l)" opacity="0.10"/>
+  <text x="600" y="70" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="4" fill="#2563EB">CYBERX COLLECTIVE</text>
+  <rect x="552" y="82" width="96" height="3" fill="#E63946"/>
+  <text x="600" y="152" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="46" font-weight="700" fill="#16233B">START HERE</text>
+  <text x="600" y="188" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="17" fill="#5B6B80">Your first 30 days in cybersecurity, mapped out</text>
+  <text x="600" y="228" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="3" fill="#F47937">MORGAN STATE UNIVERSITY</text>
+</svg>

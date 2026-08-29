@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <pattern id="circuit" width="90" height="90" patternUnits="userSpaceOnUse">
+      <path d="M0 22 H34 V64 H90" stroke="#1B4383" stroke-width="1.4" fill="none"/>
+      <path d="M56 0 V32 H90" stroke="#1B4383" stroke-width="1.4" fill="none"/>
+      <path d="M0 78 H20" stroke="#1B4383" stroke-width="1.4" fill="none"/>
+      <circle cx="34" cy="64" r="3" fill="#1B4383"/>
+      <circle cx="56" cy="32" r="3" fill="#1B4383"/>
+      <circle cx="0" cy="22" r="2.4" fill="#1B4383"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0A1628" stop-opacity="1"/>
+      <stop offset="55%" stop-color="#0A1628" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#0A1628" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="#0A1628"/>
+  <rect width="1200" height="300" fill="url(#circuit)" opacity="0.16"/>
+  <rect width="1200" height="300" fill="url(#fade)"/>
+
+  <text x="600" y="140" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="6" fill="#2563EB">CYBERX COLLECTIVE</text>
+  <rect x="470" y="158" width="260" height="4" fill="#E63946"/>
+
+  <text x="600" y="200" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="24" font-weight="400" fill="#E8EDF2">Secure the Future, Defend Today!</text>
+
+  <text x="600" y="252" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="3" fill="#F47937">MORGAN STATE UNIVERSITY</text>
+</svg>

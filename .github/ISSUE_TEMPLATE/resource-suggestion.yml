@@ -1,0 +1,26 @@
+name: 📚 Suggest a resource or fix
+description: Suggest a new learning resource, report a broken link, or flag an error anywhere in this repo.
+title: "[Resource]: "
+labels: ["resource"]
+body:
+  - type: input
+    id: folder
+    attributes:
+      label: Which folder is this about?
+      placeholder: start-here/, opportunities/, career-toolkit/, or the root README
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What's the suggestion or issue?
+      description: Link the resource, or point to the broken/incorrect content.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist
+      options:
+        - label: I checked the link/resource is live before submitting
+          required: true
