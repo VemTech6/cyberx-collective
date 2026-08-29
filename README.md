@@ -20,20 +20,20 @@ Morgan State's student cybersecurity crew — no experience required, just curio
 <a id="-who-we-are"></a>
 ## 🛡️ Who We Are
 
-New to cybersecurity? Good — most of us started there too. You don't need certs or a coding background, and that feeling that everyone else already knows more than you fades fast once you're in the room. CyberX Collective is Morgan State's student-run cybersecurity crew, founded in 2025 by Bears who wanted hands-on security experience the classroom doesn't have room for. Open to any major — you bring curiosity, we bring the lab time.
+New to cybersecurity? Good — most of us started there too. You don't need certs or a coding background, and that feeling that everyone else already knows more than you fades fast once you're in the room. CyberX Collective is Morgan State's student-run cybersecurity organization, founded in 2025 by Bears who wanted hands-on security experience the classroom doesn't have room for. Open to any major — you bring curiosity, we bring the lab time.
 
 <a id="-what-we-do"></a>
 ## ⚡ What We Do
 
 - **Skill Building** — labs, tooling, and hands-on exercises you can't get from a lecture
-- **Résumés** — cyber-specific résumés, not general career-center advice
+- **Resumes** — cyber-specific résumés, not general career-center advice
 - **Portfolios** — turning your coursework and labs into public work a hiring manager will click on
 - **Interview Prep** — technical fundamentals and behavioral questions, practiced out loud
 - **Getting Hired** — how the pipelines into this field actually work, federal hiring included
 - **Each Other** — a group of students figuring out the same path at the same time
 
 > [!NOTE]
-> You don't need any experience to start — most of us walked in knowing nothing. Showing up to one meeting is the whole first step.
+> You don't need any experience to start — most of us walked in knowing nothing. Showing up to one meeting is the first step.
 
 <a id="-join-us"></a>
 ## 🤝 Join Us
