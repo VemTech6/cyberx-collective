@@ -15,9 +15,6 @@ Morgan State University's student-run cybersecurity organization.
 
 </div>
 
-> [!NOTE]
-> This repo is private and internal-only for now. If that changes, nothing here needs rework to go public — see [`CONTRIBUTING.md`](CONTRIBUTING.md) for the contribution process either way.
-
 ---
 
 <a id="-who-we-are"></a>

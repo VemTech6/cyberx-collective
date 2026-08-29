@@ -92,6 +92,9 @@ Each track lists 3–5 free resources and one concrete first project. Expand the
 
 </details>
 
+> [!NOTE]
+> Found a broken link or outdated resource here? Open an issue with the Fix template. Want to build something for this folder — a lab writeup, a study guide? See [CONTRIBUTING.md](../CONTRIBUTING.md) — proposal first, code second.
+
 <a id="-next-steps"></a>
 ## 🧭 Next Steps
 
