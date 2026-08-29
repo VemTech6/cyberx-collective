@@ -6,7 +6,7 @@
   <img src="assets/banner-dark.svg" alt="CyberX Collective — Morgan State University" width="100%">
 </picture>
 
-Morgan State University's student-run cybersecurity organization.
+Morgan State's student cybersecurity crew — no experience required, just curiosity.
 
 <a href="#-who-we-are">Who We Are</a> ·
 <a href="#-what-we-do">What We Do</a> ·
@@ -20,18 +20,20 @@ Morgan State University's student-run cybersecurity organization.
 <a id="-who-we-are"></a>
 ## 🛡️ Who We Are
 
-CyberX Collective is Morgan State's student-run cybersecurity organization, founded in 2025 by Bears who wanted hands-on security experience the classroom doesn't have room for. We're open to any major — you bring curiosity, we bring the lab time.
+New to cybersecurity? Good — most of us started there too. You don't need certs or a coding background, and that feeling that everyone else already knows more than you fades fast once you're in the room. CyberX Collective is Morgan State's student-run cybersecurity crew, founded in 2025 by Bears who wanted hands-on security experience the classroom doesn't have room for. Open to any major — you bring curiosity, we bring the lab time.
 
 <a id="-what-we-do"></a>
 ## ⚡ What We Do
 
-- **CTFs** — team and solo, from beginner-friendly to competitive
-- **Workshops** — network defense, OSINT, forensics, cloud security, hands-on tooling
-- **Speakers** — practitioners from industry, government, and federal agencies
-- **Projects** — member-built tools and write-ups that go straight into a portfolio
+- **Skill Building** — labs, tooling, and hands-on exercises you can't get from a lecture
+- **Résumés** — cyber-specific résumés, not general career-center advice
+- **Portfolios** — turning your coursework and labs into public work a hiring manager will click on
+- **Interview Prep** — technical fundamentals and behavioral questions, practiced out loud
+- **Getting Hired** — how the pipelines into this field actually work, federal hiring included
+- **Each Other** — a group of students figuring out the same path at the same time
 
 > [!NOTE]
-> The org was founded in 2025 — we're building our track record now. Show up, and you're part of the first cohort, not a footnote in it.
+> You don't need any experience to start — most of us walked in knowing nothing. Showing up to one meeting is the whole first step.
 
 <a id="-join-us"></a>
 ## 🤝 Join Us
@@ -40,7 +42,7 @@ CyberX Collective is Morgan State's student-run cybersecurity organization, foun
 > Follow **[@cyberxcollective](https://instagram.com/cyberxcollective)** on Instagram first — that's where meeting times, room numbers, and event announcements post.
 
 <!-- TODO: meeting details -->
-Meeting schedule for the semester is being finalized — follow [@cyberxcollective](https://instagram.com/cyberxcollective) on Instagram for announcements. No application, no prerequisites — just show up.
+Meeting schedule for the semester is being finalized — follow [@cyberxcollective](https://instagram.com/cyberxcollective) on Instagram for the announcement. The only step is showing up. No application, no prerequisites, no vetting — come as you are, even if that means you've never opened a terminal.
 
 <a id="-start-here"></a>
 ## 🧭 Start Here
@@ -52,7 +54,9 @@ Meeting schedule for the semester is being finalized — follow [@cyberxcollecti
 | [career-toolkit/](career-toolkit/README.md) | Résumé templates, portfolio guidance, and interview prep for when an application is due |
 
 > [!IMPORTANT]
-> New to the org and don't know where to click first? Start with [start-here/](start-here/README.md) — it's built for exactly that.
+> Don't know where to click first? Start with [start-here/](start-here/README.md) — it's built for exactly that.
+
+Still on the fence? Come to one meeting. That's the whole ask.
 
 ---
 
