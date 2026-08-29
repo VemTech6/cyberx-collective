@@ -16,12 +16,12 @@ Morgan State University's student-run cybersecurity organization.
 ![License](https://img.shields.io/badge/license-CC--BY--4.0-2563EB)
 ![Status](https://img.shields.io/badge/status-recruiting-2563EB)
 ![Follow](https://img.shields.io/badge/instagram-%40cyberxcollective-E63946)
-![Visibility](https://img.shields.io/badge/repo-private_(staging)-8B9BB0)
+![Visibility](https://img.shields.io/badge/repo-private-8B9BB0)
 
 </div>
 
 > [!NOTE]
-> This repo is private while content is being finalized. It's structured to flip to public with no rework — see [`CONTRIBUTING.md`](CONTRIBUTING.md) for the process once it's live.
+> This repo is private and internal-only for now. If that changes, nothing here needs rework to go public — see [`CONTRIBUTING.md`](CONTRIBUTING.md) for the contribution process either way.
 
 ---
 
