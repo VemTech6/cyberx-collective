@@ -25,13 +25,15 @@ New to cybersecurity? Good — most of us started there too. You don't need cert
 <a id="-what-we-do"></a>
 ## ⚡ What We Do
 
-- **CTFs** — we'll put you on a team, no experience needed to jump in
-- **Workshops** — hands-on sessions on network defense, OSINT, forensics, cloud security; we walk you through the tools, not just talk about them
-- **Speakers** — practitioners from industry, government, and federal agencies, in the room to answer your questions
-- **Projects** — we'll help you turn coursework and lab work into a portfolio a hiring manager will actually click on
+- **Skill Building** — labs, tooling, and hands-on exercises you can't get from a lecture
+- **Résumés** — cyber-specific résumés, not general career-center advice
+- **Portfolios** — turning your coursework and labs into public work a hiring manager will click on
+- **Interview Prep** — technical fundamentals and behavioral questions, practiced out loud
+- **Getting Hired** — how the pipelines into this field actually work, federal hiring included
+- **Each Other** — a group of students figuring out the same path at the same time
 
 > [!NOTE]
-> We started in 2025 — we're building our track record right now, together. Show up, and you're part of the first cohort, not a footnote in it.
+> You don't need any experience to start — most of us walked in knowing nothing. Showing up to one meeting is the whole first step.
 
 <a id="-join-us"></a>
 ## 🤝 Join Us
