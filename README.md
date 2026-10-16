@@ -50,6 +50,7 @@ Meeting schedule for the semester is being finalized — follow [@cyberxcollecti
 | Folder | What's there |
 |---|---|
 | [start-here/](start-here/README.md) | Your first 30 days: lab setup, then offensive, defensive, GRC, cloud, and appsec learning tracks |
+| [labs/](labs/README.md) | Hands-on labs in your own VMs, organized by difficulty — beginner, intermediate, and advanced |
 | [opportunities/](opportunities/README.md) | Internships, scholarships, and federal pipelines Morgan State students can apply to right now — tracked as [Issues](https://github.com/VemTech6/cyberx-collective/issues) |
 | [career-toolkit/](career-toolkit/README.md) | Resume templates, portfolio guidance, and interview prep for when an application is due |
 
